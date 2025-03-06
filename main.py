@@ -1,5 +1,3 @@
-""""Базовая программа для подвязки запросов к бирже ATAIX """"
-
 import json
 import requests
 
